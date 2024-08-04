@@ -1,4 +1,4 @@
-# React + Vite
+# React, Redux and Tailwind Template (Ready for Api handling)
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
